@@ -86,4 +86,7 @@ Eksempelfilen kalt predict.csv kan tas i bruk for å legge til forutsette karakt
 
 ---
 
+
 Dersom du skulle finne en feil i koden, legg gjerne inn en PR, opprett et issue eller send det på [mail](mailto:martinjnilsen@icloud.com?subject=[GitHub]%20Karakterkalkulator) til meg.
+
+Lisens: [MIT](LICENSE)
