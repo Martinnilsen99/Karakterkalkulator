@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/portfoliobymartinnilsen.appspot.com/o/Projects%2Funigrade.png?alt=media&token=fe7f2a12-8e05-446f-8071-6b9a8f2445f6" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="500" />
+<img src="https://firebasestorage.googleapis.com/v0/b/portfoliobymartinnilsen.appspot.com/o/Projects%2FUnigrade.png?alt=media&token=4c2dbd0e-b37e-46c3-b95e-8e0fcec8a8a5" width="500" height="500" />
 
 # KarakterKalkulator
 
